@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net/fabricmc/thinkingobjects/mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "FabricEntityTypeMixin",
+    "MobEntityMixin",
+    "EntityMixin",
+    "EntityTypeMixin",
+    "FabricEntityTypeBuilderMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

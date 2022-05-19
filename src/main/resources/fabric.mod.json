@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "thinkinobjects",
+  "version": "1",
+
+  "name": "Thinking Objects",
+  "description": "A mod where you can see the thoughts of the mobs and get their dreams!",
+  "authors": [
+    "Hyrlost"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod",
+    "discord": "Hyrlost#6321"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/thinkinobjects/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.fabricmc.thinkingobjects.ExampleMod"
+    ],
+    "client": [
+      "net.fabricmc.thinkingobjects.ExampleModClient"
+    ]
+  },
+  "mixins": [
+    "thinkingobjects.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "~1.18.1",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
