@@ -5,6 +5,8 @@ It was my first mod related to Minecraft, where I was inspired by this [video](h
 
 I just want to tell you I don't have abilities to make designs haha, so it is the reason that I am just rendering the item image instead of a "thought cloud" as the video.
 
+If you want to contact me, please add me on discord Hyrlost#6321.
+
 ## Setup
 
 For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
