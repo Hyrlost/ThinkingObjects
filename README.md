@@ -5,7 +5,11 @@ It was my first mod related to Minecraft, where I was inspired by this [video](h
 
 I just want to tell you I don't have abilities to make designs haha, so it is the reason that I am just rendering the item image instead of a "thought cloud" as the video.
 
+Here you can find a gif where you can see the mod working: https://giphy.com/gifs/Fxpsc7zRL1qAOPBLeL
+
 If you want to contact me, please add me on discord Hyrlost#6321.
+
+Also, if you have any feedback or improvement I can do, please let me know, I will appreaciate so much this action <3
 
 ## Setup
 
